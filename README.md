@@ -15,7 +15,7 @@
 💡 I believe that good code is like a quiet kind of poetry — structured, intentional, and just a little magical.
 
 ## 🔭 What I'm Working On
-- Backend dev for personal and collab projects with [@thatsyogeshjjr](https://github.com/thatsyogeshjjr/) 💻
+- Backend dev for personal and collab projects with my robotics nut [@thatsyogeshjjr](https://github.com/thatsyogeshjjr/) 🤖
 - Exploring data systems, web security, and efficient architectures
 - Slowly falling in love with DevOps (don’t tell Python)
 
